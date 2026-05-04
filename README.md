@@ -52,7 +52,7 @@ firebase deploy
 ```
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza [MIT](LICENSE).
+Questo progetto è rilasciato sotto licenza MIT.
 
 Per maggiori informazioni:
 https://opensource.org/licenses/MIT
