@@ -50,6 +50,9 @@ http://localhost:4200
 ng build
 firebase deploy
 ```
+## 👨‍💻 Autore
+
+Simone Giannecchini
 ## 📄 Licenza
 
 Questo progetto è rilasciato sotto licenza MIT.
