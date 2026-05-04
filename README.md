@@ -10,11 +10,6 @@ Applicazione sviluppata con Angular che mostra le ultime notizie da Hacker News 
 
 ---
 
-## 💻 Repository
-
-👉 https://github.com/SimoneGiannecchini/hacker-news-2026
-
----
 
 ## 🛠️ Tecnologie utilizzate
 
