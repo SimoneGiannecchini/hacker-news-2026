@@ -98,17 +98,6 @@ Simone Giannecchini
 
 ---
 
-## 💡 Se vuoi fare un upgrade serio
 
-Ti consiglio:
 
-- aggiungere screenshot reale  
-- aggiungere breve descrizione tipo:
-  > “Progetto Angular con consumo API REST e gestione stato reattivo”
 
----
-
-Se vuoi, prossimo step:
-
-👉 ti faccio una versione **ancora più forte per CV / LinkedIn**  
-👉 oppure miglioriamo UI per farlo sembrare un prodotto reale 🚀
