@@ -95,7 +95,7 @@ Simone Giannecchini
 
 ## 📄 License
 
-Questo progetto è rilasciato sotto licenza [MIT](LICENSE).
+Questo progetto è rilasciato sotto licenza [MIT](https://opensource.org/license/mit).
 
 La licenza MIT è una licenza open source molto permissiva che consente a chiunque di utilizzare, copiare, modificare e distribuire il software, anche per scopi commerciali, a condizione che venga mantenuto il riferimento all’autore originale.
 
