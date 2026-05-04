@@ -1,59 +1,91 @@
-# HackerNewsAngular
+# 📰 Hacker News Angular App
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
+Applicazione sviluppata con Angular che mostra le ultime notizie da Hacker News in modo semplice e veloce.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Demo Live
+
+👉 https://simone-hacker-news-2026.web.app
+
+---
+
+## 💻 Repository
+
+👉 https://github.com/SimoneGiannecchini/hacker-news-2026
+
+---
+
+## 🛠️ Tecnologie utilizzate
+
+- Angular
+- TypeScript
+- RxJS
+- Bootstrap
+- Firebase Hosting
+
+---
+
+## ⚙️ Funzionalità
+
+- 📄 Visualizzazione delle ultime news da Hacker News  
+- 🔄 Caricamento dinamico delle notizie (load more)  
+- ⏳ Gestione dello stato di caricamento  
+- ⚠️ Gestione errori API  
+- 🔗 Link diretti agli articoli  
+- 📱 Layout responsive  
+
+---
+
+## 🧠 Architettura
+
+Il progetto segue le best practice Angular:
+
+- `models/` → definizione dei tipi (HackerNewsStory)  
+- `services/` → gestione chiamate API  
+- utilizzo di Angular Signals per la gestione dello stato  
+
+---
+
+## 📦 Installazione
+
+Clona il progetto:
 
 ```bash
+git clone https://github.com/SimoneGiannecchini/hacker-news-2026.git
+cd hacker-news-2026
+```
+## Installa le dipendenze:
+npm install
+Avvia il server di sviluppo:
 ng serve
-```
+Apri nel browser:
+http://localhost:4200
+🔥 Deploy
+L'app è deployata tramite Firebase Hosting:
+ng buildfirebase deploy
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+📌 Obiettivo del progetto
+Questo progetto è stato realizzato come esercitazione Angular con focus su:
 
-## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+gestione dati asincroni
 
-```bash
-ng generate component component-name
-```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+organizzazione del codice
 
-```bash
-ng generate --help
-```
 
-## Building
+esperienza utente (UX)
 
-To build the project run:
 
-```bash
-ng build
-```
+integrazione API esterne
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+👨‍💻 Autore
+Simone Giannecchini
+---## 🔥 Ultimo step (importantissimo)Dopo averlo creato:```bashgit add README.mdgit commit -m "Add README"git push
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Se vuoi fare un salto di qualità vero:
+👉 aggiungiamo screenshot
+👉 oppure lo trasformiamo in progetto da portfolio 💼
