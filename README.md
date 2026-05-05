@@ -81,6 +81,7 @@ Con questa sezione chi legge il repo può:
 ✔ clonare con Git
 ✔ scaricare senza Git
 ✔ avviare subito il progetto
+```
 ## 🔥 Deploy
 ```bash
 ng build
