@@ -57,8 +57,6 @@ http://localhost:4200
 ## 📥 Scaricare il progetto (senza Git)
 
 
-## 📦 Scaricare il progetto
-
 In alternativa, puoi scaricare il progetto senza utilizzare Git:
 
 1. Vai su https://github.com/SimoneGiannecchini/hacker-news-2026  
